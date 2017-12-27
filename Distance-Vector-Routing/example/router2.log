@@ -1,0 +1,76 @@
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R0, 50
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 5
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+6:Converged
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 999
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R0, 50
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 5
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+17:Converged
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 999
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R0, 50
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 5
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+23:Converged
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 999
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 999
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R0, 50
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+
+Routing Table:
+R2 -> R2: R2, 0
+R2 -> R0: R1, 5
+R2 -> R1: R1, 1
+R2 -> R3: R3, 6
+37:Converged
